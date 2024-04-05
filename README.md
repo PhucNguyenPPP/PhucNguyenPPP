@@ -9,13 +9,13 @@
 ###
 <h2 align="left">Personal Info</h2>
 
-<p>🌱 I’m currently learning Software Engineering at FPT University</p>
+<p> :mortar_board: I’m currently learning Software Engineering at FPT University</p>
 
 ###
 
 <h2 align="left">Contact Info</h2>
-<p>🌱 Email: nguyenphucdt36@gmail.com</p>
-<p>🌱 Phone: 0916883893</p>
+<p> :e-mail: Email: nguyenphucdt36@gmail.com</p>
+<p> :telephone_receiver: Phone: 0916883893</p>
 
 ###
 <h2 align="left">Social</h2>
@@ -35,7 +35,7 @@
 
 ###
 
-<h2 align="left">Tech</h2>
+<h2 align="left"> :computer: Tech</h2>
 <div align="left">
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C# logo" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java logo" />
